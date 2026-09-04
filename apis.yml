@@ -21,6 +21,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://ermetic.com/', status: 301, note: 'declared website redirects to https://www.tenable.com/solutions/cloud-security — a different registrable domain (ermetic.com -> tenable.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/ermetic.png
 name: Ermetic
 description: 'Ermetic is a cloud security company founded in 2019 that pioneered
